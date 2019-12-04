@@ -1,5 +1,6 @@
 ---
 title: "Starting as an LKAS Research Fellow"
+excerpt: "Starting the 1st of November 2019 I will be a 'Lord Kelvin Adam Smith' (LKAS) Research fellow at the University of Glasgow."
 ---
 
 Starting the 1st of November 2019 I will be a "Lord Kelvin Adam Smith" (LKAS) Research fellow at the University of Glasgow. This fellowship is a 5-year contract which will give me the oppotunity to become an independent researcher and pursue my own ideas. They are very similar to what many other universities call a "Chancellor's Fellowship".

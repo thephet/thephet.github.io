@@ -8,7 +8,5 @@ main:
     url: /blog/
   - title: "CV"
     url: /assets/pdfs/cv.pdf
-  - title: "Other stuff"
-    url: /otherstuff/
   - title: "About"
     url: /about/

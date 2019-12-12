@@ -28,31 +28,17 @@ Therefore, if I want to build robots based on how life appeared on planet Earth,
 The main research question then would be, "how can chemistry compute?" or "how can chemistry be intelligent?"
 
 ## Research highlights
-My research highlight is the paper I published in Nature Communications in 2014, which was the culmination of 5 years of work. This paper was interesting for 2 things:
+### Evolution of droplets in a robotic platform (2014)
 
-1) It described the first (to my knowledge) fully functional robot built using a 3D-printer and DIY
+This research described the first fully functional robot built using a 3D-printer and DIY software and hardware. 
+This robot could execute thousands of experiments working 24/7, and it also showed a closed-loop approach to data science, where the platform could decide which experiments to do, execute them, analyse the results, and decide again. 
+All this was implemented into a single robot using AI, Computer Vision, 3D-printing and DIY projects like Arduino.
 
-software and hardware. This robot could execute thousands of experiments working 24/7, and
+The scientific output of this robot was to show that simple oil droplets could undergo an evolutionary process.
+To my knowledge, it is the first time this has been proved. 
+This is important because we know that to be alive a cell needs three components: information molecules such as DNA, mechanism molecules such as proteins, and an encapsulation or body.
+How these three components came together into a cell is a very big question not answered yet, but my research showed that simple oil droplets (simple bodies) could undergo evolution in order to acquire more complex behaviours without the need for proteins or RNA/DNA. 
 
-it also showed a closed-loop approach to data science, where the platform could decide which
-
-experiments to do, execute them, analyse the results, and decide again. All these was
-
-implemented into a single robot using AI, Computer Vision, 3D-printing and DIY projects like
-
-Arduino.
-
-2) The scientific output of this robot was to show that simple oil droplets could undergo an
-
-evolutionary process. Again, to my knowledge, it is the first time this has been proved. This is
-
-important because we know that to be alive a cell needs three components: information
-
-molecules such as DNA, mechanism molecules such as proteins, and an encapsulation or body.
-
-How these three components came together into a cell is a very big question not answered yet,
-
-but my research showed that simple oil droplets (simple bodies) could undergo evolution in order to acquire more complex behaviours without the need for proteins or RNA/DNA. 
 ## Background
 
 In Catalunya, the public catalan TV ([TV3/C33](https://en.wikipedia.org/wiki/Televisi%C3%B3_de_Catalunya)) mostly played japanese cartoons on TV when I was a kid, and it was then when I was watching cartoons like [Mazinger Z](https://en.wikipedia.org/wiki/Mazinger_Z), [Neon Genesis Evangelion](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion) or my favourite: [Doraemon](https://en.wikipedia.org/wiki/Doraemon). That is when I decided that I would like to design and build robots, and therefore I started my degree on Computer Engineering. Little I knew that during those years the word "robot" would never appear, and everything would be about maths, algorithms and software design. Nevertheless that was my introduction to AI and Neural Networks (that was the sunset of ANNs when people were starting to use SVM instead).

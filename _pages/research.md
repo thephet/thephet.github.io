@@ -21,11 +21,17 @@ For example, chemist can create molecules or chemical entities that can divide, 
 Can we apply similar procedures to electronic robots?
 Or, can we take these chemical entities and create artificial life from the bottom-up using swarm or modular robotics?
 
+![image-center](/assets/images/evodrop.png){: .align-center}
+*In current experiments I am trying to create droplets that can have "life-like" behaviours. In the near future I plan to design swarms of droplets that can act collectively. In the far future, artificial life forms will be built from the bottom-up using ensembles of protocells.*
+
 My second main research question is not directly related to life itself, but to "intelligence" or "cognition", because the origin of intelligence is as important as the origin of life.
 Moreover, I don't fully agree with the "primordial soup" theory in terms of how things got kickstarted. The chances of complex structures appearing "by change" are extremelly low.
 I think that chemistry adquired "intelligence" to some degree, and this intelligence guided it to survival through chemical evolution against other similar chemical cycles. 
 Therefore, if I want to build robots based on how life appeared on planet Earth, my research will also need to embody intelligence into them.
 The main research question then would be, "how can chemistry compute?" or "how can chemistry be intelligent?"
+
+![image-center](/assets/images/smartdrop.png){: .align-center}
+*In current experiments I am trying to create minimal chemical computers using oscillating reactions. In the future this chemical computers will be inserted into droplets, and they will create intelligence swarms of droplets, where each droplet has different attributes, and where swarm intelligence will emergence from it.*
 
 ## Research highlights
 ### Evolution of droplets in a robotic platform (2014)
@@ -34,10 +40,32 @@ This research described the first fully functional robot built using a 3D-printe
 This robot could execute thousands of experiments working 24/7, and it also showed a closed-loop approach to data science, where the platform could decide which experiments to do, execute them, analyse the results, and decide again. 
 All this was implemented into a single robot using AI, Computer Vision, 3D-printing and DIY projects like Arduino.
 
+![image-center](/assets/images/dropbot1.jpg){: .align-center}
+*Left: A Genetic Algorithm was used to optimize droplet behaviours. Center: This robot was built using a 3D printer. Right: It could generate droplets and characterize them using Computer Vision*
+
 The scientific output of this robot was to show that simple oil droplets could undergo an evolutionary process.
 To my knowledge, it is the first time this has been proved. 
 This is important because we know that to be alive a cell needs three components: information molecules such as DNA, mechanism molecules such as proteins, and an encapsulation or body.
 How these three components came together into a cell is a very big question not answered yet, but my research showed that simple oil droplets (simple bodies) could undergo evolution in order to acquire more complex behaviours without the need for proteins or RNA/DNA. 
+
+Link: [Evolution of droplets in a chemo-robotic platform. Nat Comms 2014](https://www.nature.com/articles/ncomms6571)
+
+### Evolution of droplets in differente environments using a 3D-printed device (2017)
+
+This research was a direct follow-up of the previous one, and it had two main differences that improved the results.
+
+The main difference is that the robotic platform was completely redesigned, and the full functionality of the robot described before was encapsulated into a single 3D-printed device, manufactured using polypropylene.
+Each of these devices could be 3D-printed in around 15 hours.
+This meant that the platform did not need belts, pulleys, motoros or syringes, although it was still connected to syringe pumps to move the liquid in and out.
+
+![image-center](/assets/images/flowbot.jpg){: .align-center}
+*A 3D-printed device using PP was manufactured. It had the same functionality as the robot described before. Because it was fully 3D-printed, the experimental arena could have different architectures.*
+
+The second main difference is directly related to new 3D-printed device, and that it is that because we were not using anymore petri dishes, but 3D-printed "arenas", we could 3D-print into the arena different structures or mazes, and test how the droplets would behave in them.
+This way, using this device, we could test the impact of environment changes on evolution.
+This is very important from an "origin of life" perspective, because we know that planet Earth suffered sudden environment changes, like for example the appearance of oxygen, or the different asteroids, and life had to evolve through these different events.
+
+Link: [Adaptive artificial evolution of droplet protocells in a 3D-printed fluidic chemorobotic platform with configurable environments. Nat Comms 2017](https://www.nature.com/articles/s41467-017-01161-8)
 
 ## Background
 

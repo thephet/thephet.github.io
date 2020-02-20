@@ -8,6 +8,7 @@ classes: wide
 ---
 
 ## Peer-reviewed papers
+0. A crystallization robot for generating true random numbers based on stochastic chemical processes. Lee, <u>Parrilla</u>, Henson, Brechin & Cronin. *Matter*, 2020. [PDF](https://www.cell.com/matter/fulltext/S2590-2385(20)30024-2)
 0. Adaptive artificial evolution of droplet protocells in a 3D-printed fluidic chemorobotic platform with configurable environments. <u>Parrilla</u>, Tsuda, Grizou, Taylor, Henson & Cronin. *Nature Communications*, 2017. [PDF](https://www.nature.com/articles/s41467-017-01161-8.pdf)
 0. Towards heterotic computing with droplets in a fully automated droplet-maker platform. Henson, <u>Parrilla</u>, Hinkley, Tsuda & Cronin. *Philosophical Transactions of the Royal Society A*, 2015. [PDF](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2014.0221)
 0. Creating and maintaining chemical artificial life by robotic symbiosis. Hanczyc, <u>Parrilla</u>, Nicholson, Yanev & Stoy. *Artificial Life*, 2015. [Send me an e-mail if you want a copy](mailto:juanma@chem.gla.ac.uk)

@@ -1,6 +1,6 @@
 ---
 title: "New paper: A Chemical Computer"
-excerpt: "It has been an interesting week for me, because I had to present my research twice: first in the Fellowship Symposium, and then in the 7 minutes of Science."
+excerpt: "Finally the BZ Chemical Computer paper is published! This has been, by far, the project I have spent most time on."
 ---
 
 Finally the BZ Chemical Computer paper is published! This has been, by far, the project I have spent most time on. 

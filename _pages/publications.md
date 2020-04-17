@@ -8,6 +8,7 @@ classes: wide
 ---
 
 ## Peer-reviewed papers
+0. A programmable chemical computer with memory and pattern recognition. <u>Parrilla</u>, Sharma, Tsuda, Cooper, Aragon-Camarasa, Donkers & Cronin. *Nature Communications*, 2020. [PDF](https://www.nature.com/articles/s41467-020-15190-3.pdf)
 0. A crystallization robot for generating true random numbers based on stochastic chemical processes. Lee, <u>Parrilla</u>, Henson, Brechin & Cronin. *Matter*, 2020. [PDF](https://www.cell.com/matter/fulltext/S2590-2385(20)30024-2)
 0. Adaptive artificial evolution of droplet protocells in a 3D-printed fluidic chemorobotic platform with configurable environments. <u>Parrilla</u>, Tsuda, Grizou, Taylor, Henson & Cronin. *Nature Communications*, 2017. [PDF](https://www.nature.com/articles/s41467-017-01161-8.pdf)
 0. Towards heterotic computing with droplets in a fully automated droplet-maker platform. Henson, <u>Parrilla</u>, Hinkley, Tsuda & Cronin. *Philosophical Transactions of the Royal Society A*, 2015. [PDF](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2014.0221)

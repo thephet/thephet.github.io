@@ -8,6 +8,7 @@ classes: wide
 ---
 
 ## Peer-reviewed papers
+0. Automatic generation of 3D-printed reactionware for chemical synthesis digitization using ChemSCAD. Hou, Bubliauskas, Kitson, Francoia, Powell-Davies, <u>Parrilla</u>, Frei, Manzano & Cronin. *ACS Central Science*, 2021. [PDF](https://pubs.acs.org/doi/pdf/10.1021/acscentsci.0c01354)
 0. A programmable chemical computer with memory and pattern recognition. <u>Parrilla</u>, Sharma, Tsuda, Cooper, Aragon-Camarasa, Donkers & Cronin. *Nature Communications*, 2020. [PDF](https://www.nature.com/articles/s41467-020-15190-3.pdf)
 0. A crystallization robot for generating true random numbers based on stochastic chemical processes. Lee, <u>Parrilla</u>, Henson, Brechin & Cronin. *Matter*, 2020. [PDF](https://www.cell.com/matter/fulltext/S2590-2385(20)30024-2)
 0. Adaptive artificial evolution of droplet protocells in a 3D-printed fluidic chemorobotic platform with configurable environments. <u>Parrilla</u>, Tsuda, Grizou, Taylor, Henson & Cronin. *Nature Communications*, 2017. [PDF](https://www.nature.com/articles/s41467-017-01161-8.pdf)

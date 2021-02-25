@@ -1,6 +1,6 @@
 ---
 title: "First 'paper' published in Nature!"
-excerpt: "3D-printing has been one of the main technologies used in my research. I usually use it to prototype robots that would automate a process, like an experiment."
+excerpt: "After many rejections I have finally published a 'paper' in Nature. Although it is not exactly a scientific paper, but an opinion piece about science."
 ---
 
 After many rejections I have finally published a "paper" in Nature. Although it is not exactly a scientific paper, but an opinion piece about science. It is about how dissapointing it is to send out grant applications - with many hours and favours invested - only to receive a rejection followed by a comment like "no feedback will be given". I could continue speaking about this, but it is probably better if you read it yourselves: 

@@ -8,7 +8,7 @@ classes: wide
 ---
 
 ## Peer-reviewed papers
-0. Predicting Real-time Scientific Experiments Using Transformer models and Reinforcement Learning. <u>Parrilla</u>. IEEE International Conference on Machine Learning and Applications (ICMLA)*, 2021. [HTML](https://ieeexplore.ieee.org/abstract/document/9679982) [arxiv](https://arxiv.org/abs/2204.11718)
+0. Predicting Real-time Scientific Experiments Using Transformer models and Reinforcement Learning. <u>Parrilla</u>. *IEEE International Conference on Machine Learning and Applications (ICMLA)*, 2021. [HTML](https://ieeexplore.ieee.org/abstract/document/9679982) [arxiv](https://arxiv.org/abs/2204.11718)
 0. Automatic generation of 3D-printed reactionware for chemical synthesis digitization using ChemSCAD. Hou, Bubliauskas, Kitson, Francoia, Powell-Davies, <u>Parrilla</u>, Frei, Manzano & Cronin. *ACS Central Science*, 2021. [PDF](https://pubs.acs.org/doi/pdf/10.1021/acscentsci.0c01354)
 0. A programmable chemical computer with memory and pattern recognition. <u>Parrilla</u>, Sharma, Tsuda, Cooper, Aragon-Camarasa, Donkers & Cronin. *Nature Communications*, 2020. [PDF](https://www.nature.com/articles/s41467-020-15190-3.pdf)
 0. A crystallization robot for generating true random numbers based on stochastic chemical processes. Lee, <u>Parrilla</u>, Henson, Brechin & Cronin. *Matter*, 2020. [PDF](https://www.cell.com/matter/fulltext/S2590-2385(20)30024-2)
@@ -24,7 +24,7 @@ classes: wide
 {: reversed="reversed"}
 
 ## arXiv
-0. Predicting Real-time Scientific Experiments Using Transformer models and Reinforcement Learning. <u>Parrilla</u>. arXiv preprint, 2021. [PDF](https://arxiv.org/pdf/2204.11718.pdf)
+0. Predicting Real-time Scientific Experiments Using Transformer models and Reinforcement Learning. <u>Parrilla</u>. *arXiv preprint*, 2021. [PDF](https://arxiv.org/pdf/2204.11718.pdf)
 0. A programmable chemical computer with memory and pattern recognition. <u>Parrilla</u>, Tsuda, Sharma, Cooper, Aragon-Camarasa, Donkers & Cronin. *ChemRxiv*, 2019. [PDF](https://chemrxiv.org/ndownloader/files/14357597)
 0. Exploring the stochasticity of chemical processes in an automated robotic crystallization platform to generate random numbers. Lee, <u>Parrilla</u>, Henson, Brechin & Cronin. *ChemRxiv*, 2019. [PDF](https://chemrxiv.org/articles/Exploring_the_stochasticity_of_chemical_processes_in_an_automated_robotic_crystallization_platform_to_generate_random_numbers/7712510/files/14357510.pdf)
 0. Hardware and Software manual for Evolution of Oil Droplets in a Chemo-Robotic Platform. <u>Parrilla</u>, Hinkley, Taylor, Yanev & Cronin. *arXiv preprint*, 2014. [PDF](https://arxiv.org/pdf/1411.1953)

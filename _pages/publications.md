@@ -24,6 +24,7 @@ classes: wide
 {: reversed="reversed"}
 
 ## arXiv
+0. A probabilistic chemical programmable computer. Sharma, Tze-Kiat, <u>Parrilla</u>, Juang & Cronin. arXiv preprint, 2022. [PDF](https://arxiv.org/pdf/2204.13493.pdf)
 0. Predicting Real-time Scientific Experiments Using Transformer models and Reinforcement Learning. <u>Parrilla</u>. arXiv preprint, 2021. [PDF](https://arxiv.org/pdf/2204.11718.pdf)
 0. A programmable chemical computer with memory and pattern recognition. <u>Parrilla</u>, Tsuda, Sharma, Cooper, Aragon-Camarasa, Donkers & Cronin. *ChemRxiv*, 2019. [PDF](https://chemrxiv.org/ndownloader/files/14357597)
 0. Exploring the stochasticity of chemical processes in an automated robotic crystallization platform to generate random numbers. Lee, <u>Parrilla</u>, Henson, Brechin & Cronin. *ChemRxiv*, 2019. [PDF](https://chemrxiv.org/articles/Exploring_the_stochasticity_of_chemical_processes_in_an_automated_robotic_crystallization_platform_to_generate_random_numbers/7712510/files/14357510.pdf)

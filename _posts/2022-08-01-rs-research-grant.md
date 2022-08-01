@@ -1,6 +1,6 @@
----
+--
 title: "Royal Society Research Grant awarded!"
-excerpt: "Today I jouned Glasgow Caledonian University (GCU) to start a lecturership in Robotics."
+excerpt: "I have been awarded a 20,000£ research grant. The work will mix AI and robotics to design new types of artificial life."
 ---
 
 I have been awarded a 20,000£ research grant from the [Royal Society](https://royalsociety.org/grants-schemes-awards/grants/research-grants/). This grant has a duration of 12 months, and the funds will be used to buy consumables and equipment. The problem that I will be develop has as title "ZombieML: Reanimating inanimate objects with machine learning". And here you can read a brief description of the work to do:

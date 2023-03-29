@@ -1,4 +1,4 @@
---
+---
 title: "Royal Society Research Grant awarded!"
 excerpt: "I have been awarded a 20,000£ research grant. The work will mix AI and robotics to design new types of artificial life."
 ---

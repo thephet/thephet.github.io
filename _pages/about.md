@@ -5,11 +5,11 @@ title: "About"
 
 ## Contacting me
 
-If you want to discuss with me any of the topics explained in this website, please don't hesitate to contact me. The best way to do it is to send me an e-mail to <a href="mailto:juanma@chem.gla.ac.uk">juanma@chem.gla.ac.uk</a>. I don't really check any social media, but I check my e-mail regularly.
+If you want to discuss any of the topics explained in this website, please don't hesitate to contact me. The best way to do it is to send me an e-mail to <a href="mailto:juanma.parrilla@gcu.ac.uk">juanma.parrilla@gcu.ac.uk</a>. I don't really check any social media, but I check my e-mail regularly.
 
 ## Acknowledgements
 
-The logo of this website, and the different scientific sketches were done by <a href="https://www.instagram.com/nemalopod/">Naomi Johnson</a>.
+The logo of this website, and the different scientific sketches were done by <a href="https://www.instagram.com/naomi_johnson_illustration/">Naomi Johnson</a>.
 
 ## About this website
 
